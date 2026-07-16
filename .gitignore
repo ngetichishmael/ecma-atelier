@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Lockfiles from other package managers
+package-lock.json
+yarn.lock
+bun.lock
+bun.lockb
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Logs / coverage
+npm-debug.log*
+pnpm-debug.log*
+coverage/
+.nyc_output/
